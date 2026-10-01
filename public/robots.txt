@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://6northvisuals.com/sitemap.xml
